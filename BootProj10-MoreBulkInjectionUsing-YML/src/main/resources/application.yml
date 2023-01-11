@@ -1,30 +1,24 @@
 emp:
   info:
-  #HAS-A type
     company:
       location: Channai
       name: Mphasis
       size: 500
       type: IT
-      #Simple type
     empName: Teja
     empNo: 101
-    #Array type
     favColors:
     - Black
     - Blue
     - Orange
-    #Map type
     idDetails:
       PANID: 764HFUPK4081
       aadharNo: 875643565478
       voterID: 65748865
-      #List type
     nickNames:
     - Nani
     - puppy
     - Chottu
-    #Set type
     phoneNumbers:
     - 9999999999
     - 8888888888
