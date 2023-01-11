@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ConfigurableApplicationContext;
 
-import com.nt.sbeans.Company;
 import com.nt.sbeans.Employee;
 
 @SpringBootApplication
