@@ -3,10 +3,10 @@ emp:
     company:
       location: Channai
       name: Mphasis
-      size: 500
+      size: 300
       type: IT
     empName: Teja
-    empNo: 101
+    empNo: 3044
     favColors:
     - Black
     - Blue
