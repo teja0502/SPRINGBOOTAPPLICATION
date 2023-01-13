@@ -15,7 +15,7 @@ public class BootProj10MoreBulkInjectionUsingConfigarationPropertiesAnnotationAp
 		 //Company comp1=ctx.getBean("comp",Company.class);
 		 Employee emp=ctx.getBean("emp",Employee.class);
 		 System.out.println(emp);
-		 System.out.println("Hello");
+		 
 		 ((ConfigurableApplicationContext) ctx).close();
 	}
 
